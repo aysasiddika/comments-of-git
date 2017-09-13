@@ -1,0 +1,44 @@
+1.To Initialize Your Directory as Github Repository
+	git init
+
+2.To Know the Current Status of Your Directory/Repository
+	git status
+
+3.To Add a Single File Under Tracking
+	git add filename.extension (example: git add index.html)
+
+4.To Add All New or Modified File Under Tracking
+	git add
+
+5.To Set Username Globally (For All Project)
+	git config --global user.name "Your_Github_user_name"
+
+6.To Set Email Globally (For All Project)
+	git config --global user.email "Your_Github_Email"
+
+7.To Set Username Locally (For Current Project)
+	git config user.name "Your_Github_user_name"
+
+8.To Set Email Locally (For Current Project)
+	git config user.email "Your_Github_Email"
+
+9.To Add Your Remote Repository Location
+	git remote add origin repository_location
+
+10.To Get the Last Updated Version of Your Project
+	git pull repository_location
+
+11.To Commit a Message What Changed You Have Done!
+	git commit -m "Your Message"
+
+12.To Upload the Project into Your Repository Finally
+	git push
+
+13.To Download a Clone Copy of a Project from Github
+	git clone repository_location
+
+14.To Create a File into the Current Directory
+	touch filename.extension (Example: touch index.html)
+
+15.To Switch Between Directory
+	cd folderName
